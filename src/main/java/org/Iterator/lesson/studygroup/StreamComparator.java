@@ -1,4 +1,4 @@
-package org.Iterator.lesson;
+package org.Iterator.lesson.studygroup;
 
 import java.util.Comparator;
 

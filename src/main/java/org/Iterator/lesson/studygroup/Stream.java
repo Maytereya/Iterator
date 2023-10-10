@@ -1,4 +1,6 @@
-package org.Iterator.lesson;
+package org.Iterator.lesson.studygroup;
+
+import org.Iterator.lesson.student.Student;
 
 import java.util.Iterator;
 import java.util.List;

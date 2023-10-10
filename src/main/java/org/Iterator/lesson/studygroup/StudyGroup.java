@@ -1,4 +1,4 @@
-package org.Iterator.lesson;
+package org.Iterator.lesson.studygroup;
 
 public class StudyGroup extends EduUnit implements Comparable<StudyGroup> {
     private Long groupID;
